@@ -1,2 +1,3 @@
 # hospital-website
-I developed this static website using HTML &amp; CSS.
+This website was developed by me as a project during one month Internship using HTML & CSS.
+
