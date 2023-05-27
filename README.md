@@ -1,3 +1,3 @@
 # hospital-website
-This website was developed by me as a project during one month Internship using HTML & CSS.
+This website was developed  as a project during one month Internship using HTML & CSS.
 
